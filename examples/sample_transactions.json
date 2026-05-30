@@ -1,0 +1,86 @@
+{
+  "customer_id": "CUST-98421",
+  "month": "2025-04",
+  "transactions": [
+    {
+      "id": "TXN-1001",
+      "date": "2025-04-02",
+      "category": "salary",
+      "amount": 12000.00,
+      "currency": "AED",
+      "description": "Monthly salary deposit"
+    },
+    {
+      "id": "TXN-1002",
+      "date": "2025-04-03",
+      "category": "groceries",
+      "amount": 420.75,
+      "currency": "AED",
+      "description": "Carrefour Hypermarket"
+    },
+    {
+      "id": "TXN-1003",
+      "date": "2025-04-05",
+      "category": "utilities",
+      "amount": 310.50,
+      "currency": "AED",
+      "description": "DEWA electricity bill"
+    },
+    {
+      "id": "TXN-1004",
+      "date": "2025-04-07",
+      "category": "rent",
+      "amount": 4800.00,
+      "currency": "AED",
+      "description": "Apartment rent payment"
+    },
+    {
+      "id": "TXN-1005",
+      "date": "2025-04-10",
+      "category": "shopping",
+      "amount": 950.00,
+      "currency": "AED",
+      "description": "Mall of the Emirates"
+    },
+    {
+      "id": "TXN-1006",
+      "date": "2025-04-12",
+      "category": "transport",
+      "amount": 65.00,
+      "currency": "AED",
+      "description": "Dubai Metro Nol recharge"
+    },
+    {
+      "id": "TXN-1007",
+      "date": "2025-04-15",
+      "category": "dining",
+      "amount": 210.00,
+      "currency": "AED",
+      "description": "Restaurant dinner"
+    },
+    {
+      "id": "TXN-1008",
+      "date": "2025-04-18",
+      "category": "electronics",
+      "amount": 3200.00,
+      "currency": "AED",
+      "description": "New smartphone purchase"
+    },
+    {
+      "id": "TXN-1009",
+      "date": "2025-04-22",
+      "category": "travel",
+      "amount": 7800.00,
+      "currency": "AED",
+      "description": "Flight booking"
+    },
+    {
+      "id": "TXN-1010",
+      "date": "2025-04-25",
+      "category": "subscriptions",
+      "amount": 45.00,
+      "currency": "AED",
+      "description": "Netflix monthly subscription"
+    }
+  ]
+}
